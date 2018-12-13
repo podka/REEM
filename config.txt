@@ -1,0 +1,6 @@
+﻿token=Mzc2MzcwNzE3NDIxMzM4NjM2.DoiQjA.B3NMe5fo3Ig2MfnyBr251lOYkqM
+owner=376370717421338636
+prefix = -R
+game= -Rhelp
+stayinchannel=true
+songinstatus=true 
