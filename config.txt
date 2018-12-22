@@ -1,4 +1,4 @@
-﻿token=Mzc2MzcwNzE3NDIxMzM4NjM2.DoiQjA.B3NMe5fo3Ig2MfnyBr251lOYkqM
+token=Mzc2MzcwNzE3NDIxMzM4NjM2.DvRMJQ.frY-szIOomFiLqJUgrLyqEHBxwY
 owner=376370717421338636
 prefix = -R
 game= -Rhelp
